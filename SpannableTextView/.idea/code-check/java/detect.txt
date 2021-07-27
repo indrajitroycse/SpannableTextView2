@@ -1,0 +1,1 @@
+C:/Users/Sujith/DevEcoStudioProjects/Compile/SpannableTextView/entry/src/main/java/com/mpt/android/spannabletextview/slice/SpannableTextView.java

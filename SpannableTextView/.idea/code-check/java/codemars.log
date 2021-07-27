@@ -1,0 +1,30 @@
+2021-05-18 03:39:26.875 [main] INFO . - user input: C:\Program Files\Huawei\DevEco Studio 2.1.0.301\tools\openjdk\bin\java,-j,-source,@C:/Users/Sujith/DevEcoStudioProjects/Compile/SpannableTextView/.idea/code-check/java/detect.txt,-output,C:/Users/Sujith/DevEcoStudioProjects/Compile/SpannableTextView/.idea/code-check/java/output.xml
+2021-05-18 03:39:26.875 [main] INFO . - CodeMars Version:2.1.2.sp4
+2021-05-18 03:39:27.109 [main] INFO . - starting analyzing.
+2021-05-18 03:39:27.187 [main] INFO . - start collecting report.
+2021-05-18 03:39:27.203 [CodeMars1] INFO . - Command: "C:\Program Files\Huawei\DevEco Studio 2.1.0.301\plugins\codecheck\lib\CodeMars\engines\SecFinder-J\bin\run_SecFinder-J.bat",-filelist,C:\Users\Sujith\DevEcoStudioProjects\Compile\SpannableTextView\.idea\code-check\java\filelist_2021_05_18_03_39_27_203_90.txt,-f,xml,-default,-progress,-r,C:\Users\Sujith\DevEcoStudioProjects\Compile\SpannableTextView\.idea\code-check\java\\errorreport_2021_05_18_03_39_26_562_66.xml,-ruleclasspath,file:///C:\Users\Sujith\DevEcoStudioProjects\Compile\SpannableTextView\.idea\code-check\java\ruleclasspath.txt
+2021-05-18 03:39:28.125 [Thread-2] INFO . - May 18, 2021 3:39:28 AM com.huawei.secfinderj.SecFinderJ needScan
+2021-05-18 03:39:28.125 [Thread-2] INFO . - INFO: SecFinder-J Version: 2.1.3
+2021-05-18 03:39:28.750 [Thread-1] INFO . - 2021-05-18 03:39:28.437: SecFinder-J Output: Inspect start...
+2021-05-18 03:39:30.250 [Thread-1] INFO . - 2021-05-18 03:39:30.250: SecFinder-J Output: Load checkers...
+2021-05-18 03:39:31.390 [Thread-1] INFO . - 2021-05-18 03:39:31.390: SecFinder-J Output: Load config...
+2021-05-18 03:39:31.500 [Thread-1] INFO . - 2021-05-18 03:39:31.500: SecFinder-J Output: step 1/4: Find files
+2021-05-18 03:39:31.593 [Thread-1] INFO . - 2021-05-18 03:39:31.593: SecFinder-J Output: step 2/4: Process files
+2021-05-18 03:39:31.734 [Thread-1] INFO . - 2021-05-18 03:39:31.734: SecFinder-J Output: step 3/4: Run analysis...
+2021-05-18 03:39:31.750 [Thread-1] INFO . - 2021-05-18 03:39:31.750: SecFinder-J Output: [SecFinder-J--Thread--1] - during processing of [SpannableTextView.java]
+2021-05-18 03:39:33.437 [Thread-1] INFO . - 2021-05-18 03:39:33.437: SecFinder-J Output: step 4/4: Result output...
+2021-05-18 03:39:33.437 [Thread-1] INFO . - 2021-05-18 03:39:33.437: SecFinder-J Output: Inspect finish...
+2021-05-18 03:39:33.437 [Thread-1] INFO . - Analysis result:
+2021-05-18 03:39:33.437 [Thread-1] INFO . -     files analyzed      : 1
+2021-05-18 03:39:33.437 [Thread-1] INFO . -     lines analyzed      : 277
+2021-05-18 03:39:33.437 [Thread-2] INFO . - May 18, 2021 3:39:33 AM com.huawei.secfinderj.override.HwPmd end
+2021-05-18 03:39:33.437 [Thread-2] INFO . - INFO: SecFinder-J run successed!
+2021-05-18 03:39:33.437 [Thread-1] INFO . -     rules used          : 59
+2021-05-18 03:39:33.437 [Thread-1] INFO . -     issues detected     : 0
+2021-05-18 03:39:33.437 [Thread-1] INFO . -     time cost(sec)      : 5
+2021-05-18 03:39:33.437 [Thread-1] INFO . - 
+2021-05-18 03:39:33.562 [CodeMars1] INFO . - start parse errorreport xml
+2021-05-18 03:39:33.578 [CodeMars1] INFO . - parse xml time : 63
+2021-05-18 03:39:33.578 [CodeMars1] INFO . - end parse errorreport xml
+2021-05-18 03:39:33.578 [main] INFO . - end collecting report.
+2021-05-18 03:39:33.578 [main] INFO . - end analyzing.
